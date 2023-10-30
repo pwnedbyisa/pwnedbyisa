@@ -1,16 +1,48 @@
-### Hi there 👋
+<h2 align="center"> Hi! I'm Isabelle 💕 </h2>
 
-<!--
-**pwnedbyisa/pwnedbyisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![hackerone](https://img.shields.io/badge/Hackerone-green)](https://hackerone.com/xv11?type=user)
+  [![leet](https://img.shields.io/badge/Leetcode-green)](https://leetcode.com/pwnedbyisa/)
+  [![pinterest](https://img.shields.io/badge/Pinterest-green)](https://pinterest.com/chromehxxrts)
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=pwnedbyisa&theme=merko&show_icons=true&rank_icon=percentile" width="500" height="380"/>
+
+<br><br><br>
+I'm a current high school senior looking to major in Computer <br>
+Science with a concentration in cybersecurity! <br>
+#### My Hobbies
+CTFs <br>
+Robotics <br>
+Piano <br>
+Drawing <br>
+Tetris (tetr.io @ XV1 hmll) <br><br>
+
+
+
+### Currently Working On
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=terminal-calc&theme=merko)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=system-management&theme=merko)
+
+___
+<div align="left">
+  <h3>Tech</h3>
+  <p><pre>Distros >> Kali, Remnux, Arch</pre></p>
+  <p><pre>VM Software >> Oracle Virtualbox</pre></p>
+  <p><pre>IDEs >> Pycharm, NeoVim</pre></p>
+</div>
+
+<div align="right">
+  <h3>Languages</h3>
+  <p><pre>Bash, PHP</pre></p>
+  <p><pre>HTML, CSS</pre></p>
+  <p><pre>Python</pre></p>
+  <p><pre>Java, C++ (learning)</pre></p>
+</div>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&theme=merko&layout=compact&hide_title=true) -->
+
+
