@@ -12,8 +12,9 @@
 <img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=pwnedbyisa&theme=merko&show_icons=true&rank_icon=percentile" width="500" height="380"/>
 
 <br><br><br>
-I'm a current high school senior looking to major in Computer <br>
-Science with a concentration in cybersecurity! <br>
+I'm a current high school senior looking to <br>
+major in Computer Science with a <br>
+concentration in cybersecurity! <br>
 #### My Hobbies
 CTFs <br>
 Robotics <br>
