@@ -41,7 +41,7 @@ ___
   <p><pre>Bash, PHP</pre></p>
   <p><pre>HTML, CSS</pre></p>
   <p><pre>Python</pre></p>
-  <p><pre>Java, C++ (learning)</pre></p>
+  <p><pre>Java, C++, Batch (learning)</pre></p>
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&theme=merko&layout=compact&hide_title=true) -->
