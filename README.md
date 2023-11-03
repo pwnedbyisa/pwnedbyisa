@@ -36,6 +36,8 @@ ___
   <p><pre>IDEs >> Pycharm, NeoVim</pre></p>
 </div>
 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&layout=compact&theme=merko&hide_title=true)-->
+
 <div align="right">
   <h3>Languages</h3>
   <p><pre>Bash, PHP</pre></p>
