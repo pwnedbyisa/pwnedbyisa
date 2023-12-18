@@ -4,7 +4,7 @@
   
   [![hackerone](https://img.shields.io/badge/Hackerone-pink)](https://hackerone.com/xv11?type=user)
   [![leet](https://img.shields.io/badge/Leetcode-pink)](https://leetcode.com/pwnedbyisa/)
-  [![pinterest](https://img.shields.io/badge/Pinterest-pink)](https://pinterest.com/chromehxxrts)
+  [![tryhackme](https://img.shields.io/badge/TryHackMe-pink)](https://tryhackme.com/p/xv1)
   
 </div>
 
