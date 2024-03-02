@@ -49,8 +49,8 @@ ___
   <h3>Languages</h3>
   <p><pre>Sorted by fluency, higher is better</pre></p>
   <p><pre>Level 3 - Python, HTML, CSS, Bash</pre></p>
-  <p><pre>Level 2 - Java</pre></p>
-  <p><pre> Level 1 - C++, Batch, PHP</pre></p>
+  <p><pre>Level 2 - Java, Rust</pre></p>
+  <p><pre> Level 1 - C++, Batch</pre></p>
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&theme=merko&layout=compact&hide_title=true) -->
