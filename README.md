@@ -38,7 +38,7 @@ ___
 
 <div align="center">
   <h3>Tech</h3>
-  <p><pre>Distros >> Kali, Remnux, Arch</pre></p>
+  <p><pre>Distros >> Kali, Remnux, Arch, Debian 12, Windows 11</pre></p>
   <p><pre>VM Software >> Oracle Virtualbox</pre></p>
   <p><pre>IDEs >> Pycharm, NeoVim</pre></p>
 </div>
