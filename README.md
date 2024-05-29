@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![hackthebox](https://img.shields.io/badge/HackTheBox/xxv1-pink)](https://app.hackthebox.com/user/1471916) 
-  [![leet](https://img.shields.io/badge/Leetcode-pink)](https://leetcode.com/pwnedbyisa/)
+  [![crypt](https://img.shields.io/badge/CryptoHack-pink)](https://cryptohack.org/user/xv1/)
   [![tryhackme](https://img.shields.io/badge/TryHackMe/xv1-pink)](https://tryhackme.com/p/xv1)
+  [![hackthebox](https://img.shields.io/badge/HackTheBox/xxv1-pink)](https://app.hackthebox.com/user/1471916) 
   
 </div>
 
