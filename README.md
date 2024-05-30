@@ -3,8 +3,10 @@
 <div align="center">
   
   [![crypt](https://img.shields.io/badge/CryptoHack-pink)](https://cryptohack.org/user/xv1/)
-  [![tryhackme](https://img.shields.io/badge/TryHackMe/xv1-pink)](https://tryhackme.com/p/xv1)
+  [![tryhackme](https://img.shields.io/badge/TryHackMe-pink)](https://tryhackme.com/p/xv1)
+  [![pico](https://img.shields.io/badge/PicoCTF-pink)](https://play.picoctf.org/users/xv1)
   [![hackthebox](https://img.shields.io/badge/HackTheBox/xxv1-pink)](https://app.hackthebox.com/user/1471916) 
+  
   
 </div>
 
@@ -55,4 +57,9 @@ ___
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&theme=merko&layout=compact&hide_title=true) -->
 
-
+<div align="center">
+  <h3>Misc Favorites</h3>
+  <p><pre>CTF Categories >> OSINT, Forensics, Web Exploitation, Boot2Root</pre></p>
+  <p><pre>Tools >> Nmap, hashcat, wireshark, cURL, gobuster</pre></p>
+  <p><pre>CTF Sites >> PicoCTF, TryHackMe, CryptoHack, HackTheBox, RootMe, HackThisSite</pre></p>
+</div>
