@@ -18,9 +18,10 @@
 <br><br><br><br>
 #### My Hobbies
 CTFs <br>
-Robotics <br>
+Hardware Projects <br>
 Piano <br>
 Drawing <br>
+Research <br>
 Tetris (tetr.io @ XV1 hmll) <br><br>
 
 <br><br><br><br>
