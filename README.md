@@ -1,4 +1,6 @@
-<h2 align="center"> Hi! I'm Isabelle 💕 </h2>
+<h2 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Isabelle c:;Aka+xv1+<3&center=true&color=FFFFFF&vCenter=true&duration=4000&background=191724" alt="Hi! I'm Isabelle <3">
+</h2>
 
 <div align="center">
   
