@@ -63,4 +63,5 @@ ___
   <p><pre>CTF Categories >> OSINT, Forensics, Web Exploitation, Boot2Root</pre></p>
   <p><pre>Tools >> Nmap, hashcat, wireshark, cURL, gobuster</pre></p>
   <p><pre>CTF Sites >> PicoCTF, TryHackMe, CryptoHack, HackTheBox, RootMe, HackThisSite</pre></p>
+  <p><pre>Communication >> XMPP - Gajim, Profanity, Encryption - OMEMO</pre></p>
 </div>
