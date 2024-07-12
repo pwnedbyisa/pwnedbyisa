@@ -12,7 +12,7 @@
   
 </div>
 
-<p align="center">I'm a current rising college freshman looking to major in Computer Science with a concentration in Cybersecurity! </p>
+<p align="center">I'm a current rising college freshman majoring in Computer Science with a concentration in Cybersecurity! </p>
 
 <!--merko w green buttons was prev theme-->
 <img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=pwnedbyisa&theme=rose_pine&show_icons=true&rank_icon=percentile" width="500" height="380"/>
