@@ -25,17 +25,18 @@ Tetris (tetr.io @ XV1 hmll) <br><br>
 
 <br><br><br><br>
 
+<!--
 ___
 
 <h3 align="center"> Currently Working On </h2>
-<!-- fun fact if you put a space between the div n links it magically works-->
+
 <div align="center">
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xv1-ctrl&repo=nvim&theme=rose_pine)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xv1-ctrl&repo=dcd&theme=rose_pine)
 
 </div>
-
+-->
 ___
 
 <div align="center">
