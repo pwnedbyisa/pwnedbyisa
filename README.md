@@ -31,7 +31,7 @@ ___
 <!-- fun fact if you put a space between the div n links it magically works-->
 <div align="center">
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=writeups&theme=rose_pine)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=nvim&theme=rose_pine)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=dcd&theme=rose_pine)
 
 </div>
