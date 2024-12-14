@@ -4,11 +4,8 @@
 
 <div align="center">
   
-  [![crypt](https://img.shields.io/badge/CryptoHack-pink)](https://cryptohack.org/user/xv1/)
   [![tryhackme](https://img.shields.io/badge/TryHackMe-pink)](https://tryhackme.com/p/xv1)
   [![pico](https://img.shields.io/badge/PicoCTF-pink)](https://play.picoctf.org/users/xv1)
-  [![hackthebox](https://img.shields.io/badge/HackTheBox/xxv1-pink)](https://app.hackthebox.com/user/1471916) 
-  
   
 </div>
 
