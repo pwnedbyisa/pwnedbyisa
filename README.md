@@ -12,7 +12,7 @@
   
 </div>
 
-<p align="center">I'm a current rising college freshman majoring in Computer Science with a concentration in Cybersecurity! </p>
+<p align="center">I'm a first year in college double majoring in Computer Science and Economics! </p>
 
 <!--merko w green buttons was prev theme-->
 <img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=pwnedbyisa&theme=rose_pine&show_icons=true&rank_icon=percentile" width="500" height="380"/>
@@ -21,7 +21,7 @@
 #### My Hobbies
 CTFs <br>
 Hardware Projects <br>
-Piano <br>
+Reading <br>
 Drawing <br>
 Research <br>
 Tetris (tetr.io @ XV1 hmll) <br><br>
@@ -44,8 +44,8 @@ ___
 <div align="center">
   <h3>Tech</h3>
   <p><pre>Distros >> Kali, Remnux, Arch, Debian 12, TinyCore, Nix, Windows 11</pre></p>
-  <p><pre>VM Software >> Oracle Virtualbox</pre></p>
-  <p><pre>IDEs >> Pycharm, NeoVim</pre></p>
+  <p><pre>Virtualization >> WSL</pre></p>
+  <p><pre>IDEs >> VSCodium, Pycharm, NeoVim</pre></p>
 </div>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&layout=compact&theme=merko&hide_title=true)-->
@@ -54,15 +54,15 @@ ___
   <h3>Languages</h3>
   <p><pre>Sorted by fluency, higher is better</pre></p>
   <p><pre>Level 3 - Python, HTML, CSS, Bash</pre></p>
-  <p><pre>Level 2 - Java, Rust</pre></p>
-  <p><pre> Level 1 - C++, Batch</pre></p>
+  <p><pre>Level 2 - C++, Java, Rust</pre></p>
+  <p><pre> Level 1 - Batch</pre></p>
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnedbyisa&theme=merko&layout=compact&hide_title=true) -->
 
 <div align="center">
   <h3>Misc Favorites</h3>
-  <p><pre>CTF Categories >> OSINT, Forensics, Web Exploitation, Boot2Root</pre></p>
+  <p><pre>CTF Categories >> OSINT, Forensics, Boot2Root</pre></p>
   <p><pre>Tools >> Nmap, hashcat, wireshark, cURL, gobuster</pre></p>
   <p><pre>CTF Sites >> PicoCTF, TryHackMe, CryptoHack, HackTheBox, RootMe, HackThisSite</pre></p>
   <p><pre>Communication >> XMPP - Gajim, Profanity, Encryption - OMEMO</pre></p>
