@@ -12,7 +12,7 @@
 <p align="center">I'm a first year in college double majoring in Computer Science and Economics! </p>
 
 <!--merko w green buttons was prev theme-->
-<img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=pwnedbyisa&theme=rose_pine&show_icons=true&rank_icon=percentile" width="500" height="380"/>
+<img align="right" padding="none" src="https://github-readme-stats.vercel.app/api?username=xv1-ctrl&theme=rose_pine&show_icons=true&rank_icon=percentile" width="500" height="380"/>
 
 <br><br><br><br>
 #### My Hobbies
@@ -31,8 +31,8 @@ ___
 <!-- fun fact if you put a space between the div n links it magically works-->
 <div align="center">
   
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=nvim&theme=rose_pine)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnedbyisa&repo=dcd&theme=rose_pine)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xv1-ctrl&repo=nvim&theme=rose_pine)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xv1-ctrl&repo=dcd&theme=rose_pine)
 
 </div>
 
